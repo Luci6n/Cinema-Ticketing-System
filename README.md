@@ -1,12 +1,11 @@
-#GSB Cinema Ticketing System
-##Overview
+# GSB Cinema Ticketing System
+## Overview
 The GSB Cinema Ticketing System is a comprehensive application developed in C++ to manage cinema operations efficiently. This system provides distinct functionalities for both users and administrators, ensuring a smooth and streamlined experience for booking and managing movie tickets.
 
-##Features
-#User Functionality:
--Registration and Login:
-
---Users can create an account and securely log in to the system.
+## Features
+## User Functionality:
+- Registration and Login:
+-- Users can create an account and securely log in to the system.
 --Password-protected access to ensure user data security.
 -Movie Booking:
 --Browse and select from a list of available movies.
